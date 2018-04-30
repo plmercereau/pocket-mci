@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/pocket-mci/app-a2475ec9dcbb4150a989.js","44f1da1da7c967bb168f9995e3e4a88a"],["/pocket-mci/commons-81b44d284d2d66ee34ab.js","c82a5a9d622e114354b7461f2a26da9d"],["/pocket-mci/index.html","9ad7d54e62e621349d8d202d8f1dca0f"],["/pocket-mci/offline-plugin-app-shell-fallback/index.html","53ca6718963b752ce971cc86fdc07079"]];
+var precacheConfig = [["/gatsby-material-starter/app-4b17fe86c20870088a1e.js","5680bc872a265f3172bfb7c7de509d38"],["/gatsby-material-starter/commons-6a3096773c0aade03082.js","f45e48cde687bb7d0a16c63049e6cfc6"],["/gatsby-material-starter/index.html","4c1d303bede0f3f00fe3ec61021684fc"],["/gatsby-material-starter/offline-plugin-app-shell-fallback/index.html","3f92a1a81afff46bd06ba8d70a91dcc4"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
