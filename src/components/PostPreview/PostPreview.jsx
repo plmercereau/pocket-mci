@@ -55,19 +55,19 @@ class PostPreview extends Component {
           >
             <MediaOverlay>
               <CardTitle title={postInfo.title}>
-                <Button raised secondary className="md-cell--right">
-                  Read
-                </Button>
+                {/*<Button raised secondary className="md-cell--right">*/}
+                  {/*Read*/}
+                {/*</Button>*/}
               </CardTitle>
             </MediaOverlay>
           </Media>
         </Link>
-        <CardTitle
-          expander={expand}
-          avatar={<Avatar icon={<FontIcon iconClassName="fa fa-calendar" />} />}
-          title={`Published on ${postInfo.date}`}
-          subtitle={`${postInfo.timeToRead} min read`}
-        />
+        {/*<CardTitle*/}
+          {/*expander={expand}*/}
+          {/*avatar={<Avatar icon={<FontIcon iconClassName="fa fa-calendar" />} />}*/}
+          {/*title={`Published on ${postInfo.date}`}*/}
+          {/*subtitle={`${postInfo.timeToRead} min read`}*/}
+        {/*/>*/}
 
         <CardText expandable={expand}>
           {postInfo.excerpt}

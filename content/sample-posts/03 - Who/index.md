@@ -9,3 +9,4 @@ tags:
 ---
 # __Who__ activates the plan?
 
+![Who](./images/who.png#large "Who")

@@ -71,11 +71,11 @@ export default class PostTemplate extends React.Component {
             </CardText>
             <div className="post-meta">
               <PostTags tags={post.tags} />
-              {/*<SocialLinks*/}
-                {/*postPath={slug}*/}
-                {/*postNode={postNode}*/}
-                {/*mobile={this.state.mobile}*/}
-              {/*/>*/}
+              <SocialLinks
+                postPath={slug}
+                postNode={postNode}
+                mobile={this.state.mobile}
+              />
             </div>
           </Card>
           {/*<UserInfo*/}
