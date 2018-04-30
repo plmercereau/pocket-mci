@@ -5,6 +5,7 @@
 <url> <loc>https://plmercereau.github.io/pocket-mci/who</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/how</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/crowd-control</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plmercereau.github.io/pocket-mci/patient-circuit</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
