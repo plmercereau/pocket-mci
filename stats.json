@@ -5,8 +5,8 @@
       "path---tags-introduction-a589e174084b8eecf446.js.map"
     ],
     "path---categories-mci": [
-      "path---categories-mci-23c33cbb691e8c69c315.js",
-      "path---categories-mci-23c33cbb691e8c69c315.js.map"
+      "path---categories-mci-2581a4be097eed1c5b1f.js",
+      "path---categories-mci-2581a4be097eed1c5b1f.js.map"
     ],
     "path---how": [
       "path---how-70beecfeee9c70f4d27f.js",
@@ -17,8 +17,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---patient-circuit": [
-      "path---patient-circuit-b68c8c30c1b0f4037471.js",
-      "path---patient-circuit-b68c8c30c1b0f4037471.js.map"
+      "path---patient-circuit-6ccdb617aa593c12ef58.js",
+      "path---patient-circuit-6ccdb617aa593c12ef58.js.map"
     ],
     "component---src-layouts-index-jsx": [
       "component---src-layouts-index-jsx-6f3ccecf04273d3d70ff.js",
@@ -37,47 +37,47 @@
       "path---why-52af971d2c20a0fadff4.js.map"
     ],
     "component---src-templates-category-jsx": [
-      "component---src-templates-category-jsx-648cc4f90143069a8c0a.js",
-      "component---src-templates-category-jsx-648cc4f90143069a8c0a.js.map"
+      "component---src-templates-category-jsx-1afacbb40ad872819122.js",
+      "component---src-templates-category-jsx-1afacbb40ad872819122.js.map"
     ],
     "path---index": [
-      "path---index-0d9bf5cdaf9f4fb0efc1.js",
-      "path---index-0d9bf5cdaf9f4fb0efc1.js.map"
+      "path---index-744f20acc4e9c294e9f0.js",
+      "path---index-744f20acc4e9c294e9f0.js.map"
     ],
     "component---src-pages-about-jsx": [
       "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js",
       "component---src-pages-about-jsx-ad03a97f9d94d9bb3877.js.map"
     ],
     "commons": [
-      "commons-c7f734c151b508cac9c2.js",
+      "commons-81b44d284d2d66ee34ab.js",
       "build-js-styles.css",
-      "commons-c7f734c151b508cac9c2.js.map",
+      "commons-81b44d284d2d66ee34ab.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-tag-jsx": [
-      "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js",
-      "component---src-templates-tag-jsx-aaa311d3d699ffd762ea.js.map"
+      "component---src-templates-tag-jsx-e84cce05a284428050f8.js",
+      "component---src-templates-tag-jsx-e84cce05a284428050f8.js.map"
     ],
     "path---who": [
-      "path---who-8ebeb0dd5cb80bd146e2.js",
-      "path---who-8ebeb0dd5cb80bd146e2.js.map"
+      "path---who-e0f85f3c925e79bae964.js",
+      "path---who-e0f85f3c925e79bae964.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-templates-post-jsx": [
-      "component---src-templates-post-jsx-6754e6306145a90a93fd.js",
-      "component---src-templates-post-jsx-6754e6306145a90a93fd.js.map"
+      "component---src-templates-post-jsx-4ddedae4b3aa59e8267a.js",
+      "component---src-templates-post-jsx-4ddedae4b3aa59e8267a.js.map"
     ],
     "component---src-pages-index-jsx": [
-      "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js",
-      "component---src-pages-index-jsx-5cd3e3488ba2b0d716bd.js.map"
+      "component---src-pages-index-jsx-7015755f7df253c91005.js",
+      "component---src-pages-index-jsx-7015755f7df253c91005.js.map"
     ],
     "app": [
-      "app-b77497ee69314339b9f0.js",
+      "app-a2475ec9dcbb4150a989.js",
       "build-js-styles.css",
-      "app-b77497ee69314339b9f0.js.map",
+      "app-a2475ec9dcbb4150a989.js.map",
       "build-js-styles.css.map"
     ],
     "path---crowd-control": [

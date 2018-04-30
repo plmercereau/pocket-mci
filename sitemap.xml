@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://plmercereau.github.io/pocket-mci/why</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/when</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://plmercereau.github.io/pocket-mci/who</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/how</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/crowd-control</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/patient-circuit</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://plmercereau.github.io/pocket-mci/who</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://plmercereau.github.io/pocket-mci/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
