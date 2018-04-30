@@ -39,6 +39,7 @@ $phone-status-bar-height: 24px - 12px;
         max-width: 100%;
         word-wrap: break-word;
         white-space: normal;
+        text-align: center;
     }
 
     .post {
@@ -65,10 +66,20 @@ $phone-status-bar-height: 24px - 12px;
                 margin-bottom: 10px !important;
             }
 
+            h1, h2 {
+                text-align: center;
+            }
+
             li {
                 margin-top: 15px;
             }
 
+            img {
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 80%;
+            }
             /**
              * Based on MUICSS's Table Component
              */

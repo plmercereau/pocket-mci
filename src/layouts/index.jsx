@@ -38,7 +38,7 @@ export default class MainLayout extends React.Component {
         .replace("/", "")
         .replace("-", " ");
       title = `${capitalize(category)}`;
-    }
+    } else title = `${capitalize(currentPath.replace("-", " "))}`;
     return title;
   }
   render() {
