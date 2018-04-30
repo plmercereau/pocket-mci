@@ -100,6 +100,7 @@ module.exports = {
     },
     {
       resolve: "gatsby-plugin-manifest",
+      // https://developer.mozilla.org/en-US/docs/Web/Manifest
       options: {
         name: config.siteTitle,
         short_name: config.siteTitle,
@@ -107,7 +108,7 @@ module.exports = {
         start_url: config.pathPrefix,
         background_color: "#e0e0e0",
         theme_color: "#c62828",
-        display: "minimal-ui",
+        display: "standalone",
         icons: [
           {
             src: "/logos/logo-192.png",
