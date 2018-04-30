@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["/pocket-mci/app-2ad87c6d115c34ab43a2.js","fe57314846d6d70b5fa546f185c77bfe"],["/pocket-mci/commons-c7f734c151b508cac9c2.js","6d5a506f44a64c37d748cc2a448e067f"],["/pocket-mci/index.html","b0f390fe7e5dc6845911326dd9bd72c7"],["/pocket-mci/offline-plugin-app-shell-fallback/index.html","2d0fb8ff3b53dfddab3fc444ea8afe28"]];
+var precacheConfig = [["/pocket-mci/app-1905882992e5f03466e6.js","b0440ae7a211eb332f96e4c46b6399b7"],["/pocket-mci/commons-c7f734c151b508cac9c2.js","5db752d37f1cf02f9a7bb7dec806b495"],["/pocket-mci/index.html","fba3606288740e19b6bba86d9ff9b9f1"],["/pocket-mci/offline-plugin-app-shell-fallback/index.html","1af962148e6e1a7a4d76566501bec52b"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
